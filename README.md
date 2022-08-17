@@ -1,7 +1,7 @@
 # Gabrielcoder247
 
 ## Summary about this project
-### Smart Apartment is side project i built where listed Apartment can be located using a map by the user
+### Smart Apartment is side project i built where listed Apartment can be located using a map by the user.
 
 ## Core functionality
 ### Maptiler map
